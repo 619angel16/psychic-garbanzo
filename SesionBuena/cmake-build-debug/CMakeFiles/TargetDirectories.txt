@@ -1,0 +1,3 @@
+/home/angel/Desktop/SesionBuena/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/angel/Desktop/SesionBuena/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angel/Desktop/SesionBuena/cmake-build-debug/CMakeFiles/Sesion0.dir
